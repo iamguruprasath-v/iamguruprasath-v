@@ -42,7 +42,7 @@
 <img src="https://media.giphy.com/media/eoNi8UexSeHwzW98B3/giphy.gif?cid=ecf05e47odylb1e9zd5cdsu53wxudns166oqpomcd95xld2g&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35">&nbsp;***Blogs***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### Check out my blogs at:   
-<a href="https://medium.com/@guruprasathv.dev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=violet&color=black" /></a>
+<a href="https://medium.com/@iamguruprasath-v"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=violet&color=black" /></a>
 
 *Some of my writings may sound interesting to you:*
 <p align="center">
