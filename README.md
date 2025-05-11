@@ -72,7 +72,7 @@
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=guruprasath-v&show=prs_merged,prs_merged_percentage&hide=stars,issues&show_icons=true&theme=aura&border_color=dadada&rank_icon=percentile&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=iamguruprasath-v&show=prs_merged,prs_merged_percentage&hide=stars,issues&show_icons=true&theme=aura&border_color=dadada&rank_icon=percentile&count_private=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=guruprasath-v&theme=aura&hide_border=false" alt="AAL1X streak" />
 </td>
 <td width="50%" align="center">
@@ -82,4 +82,4 @@
 </table>
 </p>
  
-[![Guru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guruprasath-v&bg_color=000000&color=9b979b&line=c232d2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Guru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamguruprasath-v&bg_color=000000&color=9b979b&line=c232d2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
