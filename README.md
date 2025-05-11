@@ -16,7 +16,7 @@
 - 📙 Check out my [Resume](https://drive.google.com/drive/folders/1OE-SjWTEXn8GSLbyltJkG1lLMdVLnB42?usp=sharing)
 - ⚡ Fun fact: I ❤️ ***`0s and 1s`***
 - 📫 How to reach me :
-<br /> <a href="mailto:guruprasathv.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=violet&color=black" /></a> <a href="https://www.linkedin.com/in/guruprasath-vijaykumar/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=violet&color=black" /></a> <a href="https://www.reddit.com/user/Guruprasath-v/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=violet&color=black" /></a>
+<br /> <a href="mailto:guruprasathv.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=violet&color=black" /></a> <a href="https://www.linkedin.com/in/iamguruprasath-v/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=violet&color=black" /></a> <a href="https://www.reddit.com/user/Guruprasath-v/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=violet&color=black" /></a>
 <br />
 <br />
 
