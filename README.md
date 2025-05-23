@@ -8,7 +8,7 @@
 ###### Member Technical Staff @ <img src="https://www.vectorlogo.zone/logos/zoho/zoho-icon.svg" width="100" align="absmiddle"/> | ManageEngine
 
 
-![](https://komarev.com/ghpvc/?username=guruprasath-v&color=C23BEE&style=plasticabbreviated=true)
+![](https://komarev.com/ghpvc/?username=iamguruprasath-v&color=C23BEE&style=plasticabbreviated=true)
 
 - 🌱 I'm Currently learning DSA
 - 👯 I'm looking to collaborate on **Fullstack | Any** projects
@@ -23,7 +23,7 @@
 <!-- Profile Trophies -->
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=guruprasath-v&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=false" alt="TROPHY" width="84%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=iamguruprasath-v&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=false" alt="TROPHY" width="84%" />
     </a>
 </div>
 
@@ -46,11 +46,11 @@
 
 *Some of my writings may sound interesting to you:*
 <p align="center">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/0" alt="Recent Article 0" style="width: 4000px; height: 150px;" />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamguruprasath-v/0">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamguruprasath-v/0" alt="Recent Article 0" style="width: 4000px; height: 150px;" />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/1">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/1" alt="Recent Article 1" style="width: 4000px; height: 150px;">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamguruprasath-v/1">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamguruprasath-v/1" alt="Recent Article 1" style="width: 4000px; height: 150px;">
   </a>
 </p>
 
@@ -73,10 +73,10 @@
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=iamguruprasath-v&show=prs_merged,prs_merged_percentage&hide=stars,issues&show_icons=true&theme=aura&border_color=dadada&rank_icon=percentile&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guruprasath-v&theme=aura&hide_border=false" alt="AAL1X streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamguruprasath-v&theme=aura&hide_border=false" alt="AAL1X streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=guruprasath-v&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamguruprasath-v&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
