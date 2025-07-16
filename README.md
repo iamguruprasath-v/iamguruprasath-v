@@ -10,7 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=iamguruprasath-v&color=C23BEE&style=plasticabbreviated=true)
 
-- 🌱 I'm Currently learning DSA
+- 🌱 I'm Currently learning Ember.js | TypeScript | Docler
 - 👯 I'm looking to collaborate on **Fullstack | Any** projects
 - 💬 Ask me about anything related to ***Web* | *OOPs* | *Coding***
 - 📙 Check out my [Resume](https://drive.google.com/drive/folders/1OE-SjWTEXn8GSLbyltJkG1lLMdVLnB42?usp=sharing)
